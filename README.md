@@ -12,6 +12,7 @@ Projet MSPR pour l'EPSI 2023-2024
 
         npm install react-native-dotenv
         npm install expo-font axios
+        npm install @react-navigation/native
 
 
     Démarrage application:
