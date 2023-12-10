@@ -8,4 +8,15 @@ Projet MSPR pour l'EPSI 2023-2024
         
 
         npx create-expo-app@latest -e with-router ./
-        npm install expo-font axios react-native-doenv
+        npm install
+
+        npm install react-native-doenv
+        npm install expo-font axios
+
+
+    Démarrage application:
+
+        Télécharger l'application Expo Go sur votre téléphone
+        Rentrer la commande npm start dans votre terminal
+        scannez le QR code sur l'application
+        
