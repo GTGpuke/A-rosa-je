@@ -5,6 +5,7 @@ Projet MSPR pour l'EPSI 2023-2024
 
         installez nodejs (cela prend quelques minutes)
         installez npx via npm
+        npm install -g npx
         
 
         npx create-expo-app@latest -e with-router ./
